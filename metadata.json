@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Voice Bot - test 1",
+  "description": "A conversational voice AI powered by Gemini 2.5 Live API with customizable system instructions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
